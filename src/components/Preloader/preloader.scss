@@ -1,0 +1,12 @@
+.preloader-container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .preloader{
+        width: 3rem;
+        height: 3rem;
+    }
+}
